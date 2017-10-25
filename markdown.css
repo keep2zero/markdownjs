@@ -14,6 +14,8 @@
 #md h4 {
   font-size: 12px;
 }
-#md pre code {
+#md pre {
+   padding: 50px;
+   border-radius: 10px;
    background-image:url(data:image/svg+xml;charset=utf-8,%3Csvg width='304' height='304' viewBox='0…07z' fill='%2345404b' fill-opacity='.15' fill-rule='evenodd'/%3E%3C/svg%3E));
 }
